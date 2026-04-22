@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎮 Algo Quest
 
-## Getting Started
+Algo Quest is a 2D pixel-art adventure game that teaches Data Structures and Algorithms (DSA) through interactive gameplay. Each level represents a core DSA concept, turning learning into an engaging journey.
 
-First, run the development server:
+---
+
+## 🚀 Features
+
+* 🧠 Learn DSA concepts through gameplay
+* 🎮 Zelda/Pokémon-style top-down game design
+* 🗺️ Level-based progression system
+* ⚔️ Boss battles representing algorithmic challenges
+
+---
+
+## 🛠️ Tech Stack
+
+* Next.js
+* Phaser 3
+* JavaScript
+
+---
+
+## ▶️ Getting Started
+
+Run the development server:
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000 in your browser.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🎯 Game Concept
 
-## Learn More
+* Arrays → Inventory system
+* Searching → Finding hidden items
+* Sorting → Puzzle challenges
+* Graphs → Map navigation
+* Dynamic Programming → Boss strategies
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📌 Future Scope
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+* Add more DSA levels
+* Multiplayer mode
+* Leaderboard system
+* Sound effects & animations
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 👩‍💻 Author
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Parinita Teli
